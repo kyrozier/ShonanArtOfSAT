@@ -45,7 +45,7 @@ Evening: Demos and social interaction.
 ### Afternoon 1: Topic session on encoding (part II). 
 
 
-* 14:00-14:30       Kristin Rozier    [SAT based explicit LTL satisfiability checking]
+* 14:00-14:30       Kristin Yvonne Rozier    [SAT based explicit LTLf satisfiability checking] (just checking that the name was a minor typo; this is for the logic *LTLf*)
 * 14:30-15:00       Marijn Heule      [Encoding]
 * 15:00-15:30       [open]
 * 15:30-16:00 break 
